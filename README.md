@@ -41,9 +41,9 @@ My focus isn’t just on getting things done—it’s about doing them well and 
 
 ## Projects 🚀
 
+- **[The Wild Oasis](https://github.com/hazemr2121/the-wild-oasis)**: A full-featured hotel management app allowing employees to manage cabins, bookings, and guests.
 - **[Fast React Pizza](https://github.com/hazemr2121/fast-react-pizza)**: Very simple application, where users can order one or more pizzas from a menu.
 - **[Worldwise](https://github.com/hazemr2121/worldwise)**: React application that allows users to explore cities from around the world.
-- **[The Wild Oasis](https://github.com/hazemr2121/the-wild-oasis)**: ⏳(Working on) A full-featured hotel management app allowing employees to manage cabins, bookings, and guests.
   
 
 ## Let's Connect 🤝
